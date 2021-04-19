@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="98a8b289-1beb-4225-9e9b-f31e581eca33" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (1.20.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Death's End (The Three-Body Problem)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>Welcome Page</text>
+      </navLabel>
+      <content src="text/part0000_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>About Death’s End</text>
+      </navLabel>
+      <content src="text/part0001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>Contents</text>
+      </navLabel>
+      <content src="text/part0002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>A Brief Note from the Translator</text>
+      </navLabel>
+      <content src="text/part0003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>Table of Eras</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>Excerpt from the Preface to A Past Outside of Time</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>Part I</text>
+      </navLabel>
+      <content src="text/part0006.html"/>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>May 1453, C.E. The Death of the Magician</text>
+        </navLabel>
+        <content src="text/part0007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>Crisis Era, Year 1 The Option for Life</text>
+        </navLabel>
+        <content src="text/part0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>Crisis Era, Year 4 Yun Tianming</text>
+        </navLabel>
+        <content src="text/part0009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Infantilism at the Start of the Crisis</text>
+        </navLabel>
+        <content src="text/part0010.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>Crisis Era, Year 4 Yun Tianming</text>
+        </navLabel>
+        <content src="text/part0011.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>Crisis Era, Years 1–4 Cheng Xin</text>
+        </navLabel>
+        <content src="text/part0012.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Hibernation: Man Walks for the First Time Through Time</text>
+        </navLabel>
+        <content src="text/part0013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>Crisis Era, Years 1–4 Cheng Xin</text>
+        </navLabel>
+        <content src="text/part0014.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Staircase Program</text>
+        </navLabel>
+        <content src="text/part0015.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>Crisis Era, Years 1–4 Cheng Xin</text>
+        </navLabel>
+        <content src="text/part0016.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>Crisis Era, Years 5–7 The Staircase Program</text>
+        </navLabel>
+        <content src="text/part0017.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>Part II</text>
+      </navLabel>
+      <content src="text/part0018.html"/>
+      <navPoint class="chapter" id="num_20" playOrder="20">
+        <navLabel>
+          <text>Deterrence Era, Year 12 Bronze Age</text>
+        </navLabel>
+        <content src="text/part0019.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Nyctohylophobia</text>
+        </navLabel>
+        <content src="text/part0020.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="22">
+        <navLabel>
+          <text>Deterrence Era, Year 12 Bronze Age</text>
+        </navLabel>
+        <content src="text/part0021.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>Deterrence Era, Year 13 Trial</text>
+        </navLabel>
+        <content src="text/part0022.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="24">
+        <navLabel>
+          <text>Deterrence Era, Year 61 The Swordholder</text>
+        </navLabel>
+        <content src="text/part0023.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_25" playOrder="25">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Ghost of the Wallfacers: The Swordholder</text>
+        </navLabel>
+        <content src="text/part0024.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_26" playOrder="26">
+        <navLabel>
+          <text>Deterrence Era, Year 61 The Swordholder</text>
+        </navLabel>
+        <content src="text/part0025.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="27">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Cultural Reflection</text>
+        </navLabel>
+        <content src="text/part0026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="28">
+        <navLabel>
+          <text>Deterrence Era, Year 61 The Swordholder</text>
+        </navLabel>
+        <content src="text/part0027.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="29">
+        <navLabel>
+          <text>Deterrence Era, Year 62 Gravity, in the Vicinity of the Oort Cloud</text>
+        </navLabel>
+        <content src="text/part0028.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="30">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time More Indirect Evidence for the Dark Forest: Sophon-­Blind Regions</text>
+        </navLabel>
+        <content src="text/part0029.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_31" playOrder="31">
+        <navLabel>
+          <text>Deterrence Era, Year 62 Gravity, in the Vicinity of the Oort Cloud</text>
+        </navLabel>
+        <content src="text/part0030.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_32" playOrder="32">
+        <navLabel>
+          <text>Deterrence Era, Year 62 November 28, 4:00 P.M. to 4:17 P.M.: Deterrence Center</text>
+        </navLabel>
+        <content src="text/part0031.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_33" playOrder="33">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Choice of the Swordholder: Ten Minutes Between Existence and Annihilation</text>
+        </navLabel>
+        <content src="text/part0032.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_34" playOrder="34">
+        <navLabel>
+          <text>Deterrence Era, Year 62 November 28, 4:00 P.M. to 4:17 P.M.: Deterrence Center</text>
+        </navLabel>
+        <content src="text/part0033.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_35" playOrder="35">
+        <navLabel>
+          <text>The Final Ten Minutes of the Deterrence Era, Year 62 November 28, 4:17:34 P.M. to 4:27:58 P.M.: Deterrence Center</text>
+        </navLabel>
+        <content src="text/part0034.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_36" playOrder="36">
+        <navLabel>
+          <text>Post-­Deterrence Era, First Hour A Lost World</text>
+        </navLabel>
+        <content src="text/part0035.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_37" playOrder="37">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Reflections on the Failure of Dark Forest Deterrence</text>
+        </navLabel>
+        <content src="text/part0036.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_38" playOrder="38">
+        <navLabel>
+          <text>Post-Deterrence Era, First Hour A Lost World</text>
+        </navLabel>
+        <content src="text/part0037.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_39" playOrder="39">
+        <navLabel>
+          <text>Post-­Deterrence Era, Day 60 A Lost World</text>
+        </navLabel>
+        <content src="text/part0038.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_40" playOrder="40">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Technology Explosion on Trisolaris</text>
+        </navLabel>
+        <content src="text/part0039.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_41" playOrder="41">
+        <navLabel>
+          <text>Post-­Deterrence Era, Day 60 A Lost World</text>
+        </navLabel>
+        <content src="text/part0040.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_42" playOrder="42">
+        <navLabel>
+          <text>Post-­Deterrence Era, Year 2 Australia</text>
+        </navLabel>
+        <content src="text/part0041.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_43" playOrder="43">
+        <navLabel>
+          <text>The Final Ten Minutes of the Deterrence Era, Year 62 November 28, 4:17:34 P.M. to 4:27:58 P.M.: Gravity and Blue Space, Deep Space</text>
+        </navLabel>
+        <content src="text/part0042.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_44" playOrder="44">
+        <navLabel>
+          <text>Post-­Deterrence Era, Year 2 The Morning ­After the ­Great Resettlement, Australia</text>
+        </navLabel>
+        <content src="text/part0043.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_45" playOrder="45">
+        <navLabel>
+          <text>Post-­Deterrence Era, Day 1–­Day 5 Gravity and Blue Space, Deep Space Beyond the Oort Cloud</text>
+        </navLabel>
+        <content src="text/part0044.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>Part III</text>
+      </navLabel>
+      <content src="text/part0045.html"/>
+      <navPoint class="chapter" id="num_47" playOrder="47">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Cheng Xin</text>
+        </navLabel>
+        <content src="text/part0046.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_48" playOrder="48">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Delusions of Cosmic Persecution: The Last Attempt to Invalidate Dark Forest Theory</text>
+        </navLabel>
+        <content src="text/part0047.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_49" playOrder="49">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Cheng Xin</text>
+        </navLabel>
+        <content src="text/part0048.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_50" playOrder="50">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time A New Model for the Dark Forest</text>
+        </navLabel>
+        <content src="text/part0049.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_51" playOrder="51">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Sophon</text>
+        </navLabel>
+        <content src="text/part0050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_52" playOrder="52">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Cosmic Safety Notice: A Lonely Per­for­mance Art</text>
+        </navLabel>
+        <content src="text/part0051.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_53" playOrder="53">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Sophon</text>
+        </navLabel>
+        <content src="text/part0052.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_54" playOrder="54">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Long Staircase</text>
+        </navLabel>
+        <content src="text/part0053.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_55" playOrder="55">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Yun Tianming</text>
+        </navLabel>
+        <content src="text/part0054.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_56" playOrder="56">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Yun Tianming’s Fairy Tales</text>
+        </navLabel>
+        <content src="text/part0055.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_57" playOrder="57">
+        <navLabel>
+          <text>The First Tale of Yun Tianming “The New Royal Painter”</text>
+        </navLabel>
+        <content src="text/part0056.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_58" playOrder="58">
+        <navLabel>
+          <text>The Second Tale of Yun Tianming “The Glutton’s Sea”</text>
+        </navLabel>
+        <content src="text/part0057.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_59" playOrder="59">
+        <navLabel>
+          <text>The Third Tale of Yun Tianming “Prince Deep ­Water”</text>
+        </navLabel>
+        <content src="text/part0058.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_60" playOrder="60">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Yun Tianming’s Fairy Tales</text>
+        </navLabel>
+        <content src="text/part0059.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_61" playOrder="61">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Bunker Proj­ect: An Ark for Earth Civilization</text>
+        </navLabel>
+        <content src="text/part0060.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_62" playOrder="62">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Yun Tianming’s Fairy Tales</text>
+        </navLabel>
+        <content src="text/part0061.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_63" playOrder="63">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Motion Through Bending Space</text>
+        </navLabel>
+        <content src="text/part0062.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_64" playOrder="64">
+        <navLabel>
+          <text>Broadcast Era, Year 7 Yun Tianming’s Fairy Tales</text>
+        </navLabel>
+        <content src="text/part0063.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_65" playOrder="65">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Three Paths of Survival for Earth Civilization</text>
+        </navLabel>
+        <content src="text/part0064.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_66" playOrder="66">
+        <navLabel>
+          <text>Broadcast Era, Year 8 Fate’s Choice</text>
+        </navLabel>
+        <content src="text/part0065.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_67" playOrder="67">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Space Sentries: The Solar System Advance Warning System</text>
+        </navLabel>
+        <content src="text/part0066.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_68" playOrder="68">
+        <navLabel>
+          <text>Broadcast Era, Year 8 Fate’s Choice</text>
+        </navLabel>
+        <content src="text/part0067.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_69" playOrder="69">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time Terror of the Endless Night</text>
+        </navLabel>
+        <content src="text/part0068.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_70" playOrder="70">
+        <navLabel>
+          <text>Broadcast Era, Year ­8 Sun-­Earth Lagrangian Point</text>
+        </navLabel>
+        <content src="text/part0069.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>Part IV</text>
+      </navLabel>
+      <content src="text/part0070.html"/>
+      <navPoint class="chapter" id="num_72" playOrder="72">
+        <navLabel>
+          <text>Bunker Era, Year 11 Bunker World</text>
+        </navLabel>
+        <content src="text/part0071.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_73" playOrder="73">
+        <navLabel>
+          <text>Bunker Era, Year 11 Lightspeed II</text>
+        </navLabel>
+        <content src="text/part0072.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_74" playOrder="74">
+        <navLabel>
+          <text>Bunker Era, Year 11 Halo City</text>
+        </navLabel>
+        <content src="text/part0073.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_75" playOrder="75">
+      <navLabel>
+        <text>Part V</text>
+      </navLabel>
+      <content src="text/part0074.html"/>
+      <navPoint class="chapter" id="num_76" playOrder="76">
+        <navLabel>
+          <text>Bunker Era, Year 67 Orion Arm of the Milky Way</text>
+        </navLabel>
+        <content src="text/part0075.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_77" playOrder="77">
+        <navLabel>
+          <text>Bunker Era, Year 67 Halo</text>
+        </navLabel>
+        <content src="text/part0076.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_78" playOrder="78">
+        <navLabel>
+          <text>Bunker Era, Year 66 Outside the Solar System</text>
+        </navLabel>
+        <content src="text/part0077.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_79" playOrder="79">
+        <navLabel>
+          <text>Bunker Era, Year 68 Pluto</text>
+        </navLabel>
+        <content src="text/part0078.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_80" playOrder="80">
+        <navLabel>
+          <text>Bunker Era, Year 68 The Two-­Dimensional Solar System</text>
+        </navLabel>
+        <content src="text/part0079.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_81" playOrder="81">
+      <navLabel>
+        <text>Part VI</text>
+      </navLabel>
+      <content src="text/part0080.html"/>
+      <navPoint class="chapter" id="num_82" playOrder="82">
+        <navLabel>
+          <text>Galaxy Era, Year 409 Our Star</text>
+        </navLabel>
+        <content src="text/part0081.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_83" playOrder="83">
+        <navLabel>
+          <text>About Seventeen Billion Years ­After the Beginning of Time Our Star</text>
+        </navLabel>
+        <content src="text/part0082.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_84" playOrder="84">
+        <navLabel>
+          <text>Outside of Time Our Universe</text>
+        </navLabel>
+        <content src="text/part0083.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_85" playOrder="85">
+        <navLabel>
+          <text>Excerpt from A Past Outside of Time The Stairs of Responsibility</text>
+        </navLabel>
+        <content src="text/part0084.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_86" playOrder="86">
+        <navLabel>
+          <text>Outside of Time Our Universe</text>
+        </navLabel>
+        <content src="text/part0085.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_87" playOrder="87">
+      <navLabel>
+        <text>Translator’s Postscript</text>
+      </navLabel>
+      <content src="text/part0086.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_88" playOrder="88">
+      <navLabel>
+        <text>About Cixin Liu</text>
+      </navLabel>
+      <content src="text/part0087.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_89" playOrder="89">
+      <navLabel>
+        <text>About the Translator</text>
+      </navLabel>
+      <content src="text/part0088.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_90" playOrder="90">
+      <navLabel>
+        <text>About The Three-Body Problem Series</text>
+      </navLabel>
+      <content src="text/part0089.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_91" playOrder="91">
+      <navLabel>
+        <text>An Invitation from the Publisher</text>
+      </navLabel>
+      <content src="text/part0090.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_92" playOrder="92">
+      <navLabel>
+        <text>Copyright</text>
+      </navLabel>
+      <content src="text/part0091.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
