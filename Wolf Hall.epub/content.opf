@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>HarperCollins</dc:publisher>
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;SUMMARY: In the ruthless arena of King Henry VIII's court, only one man dares to gamble his life to win the king's favor and ascend to the heights of political power. England in the 1520s is a heartbeat from disaster. If the king dies without a male heir, the country could be destroyed by civil war. Henry VIII wants to annul his marriage of twenty years, and marry Anne Boleyn. The pope and most of Europe opposes him. The quest for the king's freedom destroys his adviser, the brilliant Cardinal Wolsey, and leaves a power vacuum. Into this impasse steps Thomas Cromwell. Cromwell is a wholly original man, a charmer and a bully, both idealist and opportunist, astute in reading people and a demon of energy: he is also a consummate politician, hardened by his personal losses, implacable in his ambition. But Henry is volatile: one day tender, one day murderous. Cromwell helps him break the opposition, but what will be the price of his triumph? In inimitable style, Hilary Mantel presents a picture of a half-made society on the cusp of change, where individuals fight or embrace their fate with passion and courage. With a vast array of characters, overflowing with incident, the novel re-creates an era when the personal and political are separated by a hairbreadth, where success brings unlimited power but a single failure means death.&lt;/p&gt;
+&lt;p class="description"&gt;SUMMARY:&lt;br&gt;England, the 1520s. Henry VIII is on the throne, but has no heir. Cardinal Wolsey is his chief advisor, charged with securing the divorce the pope refuses to grant. Into this atmosphere of distrust and need comes Thomas Cromwell, first as Wolsey's clerk, and later his Cromwell is a wholly original man: the son of a brutal blacksmith, a political genius, a briber, a charmer, a bully, a man with a delicate and deadly expertise in manipulating people and events. Ruthless in pursuit of his own interests, he is as ambitious in his wider politics as he is for himself. His reforming agenda is carried out in the grip of a selfinterested parliament and a king who fluctuates between romantic passions and murderous rages.From one of our finest living writers, Wolf Hall is that very rare thing: a truly great English novel, one that explores the intersection of individual psychology and wider politics. With a vast array of characters, and richly overflowing with incident, it peels back history to show us Tudor England as a half-made society, moulding itself us Tudor England as a half-made society, moulding itself&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Mantel, Hilary" opf:role="aut">Hilary Mantel</dc:creator>
+    <meta name="calibre:timestamp" content="2009-01-01T05:00:00+00:00"/>
+    <dc:title>Wolf Hall</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2009-01-01T05:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="ISBN">9780007353552</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">a0016c73-54fd-459d-aef7-88f28ad739bd</dc:identifier>
+    <dc:subject>Fiction</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Historical - General</dc:subject>
+    <dc:subject>Thomas</dc:subject>
+    <dc:subject>Cromwell</dc:subject>
+    <dc:subject>Historical</dc:subject>
+    <dc:subject>Henry VIII</dc:subject>
+    <dc:subject>1485?-1540</dc:subject>
+    <dc:subject>Earl of Essex</dc:subject>
+    <dc:subject>Literary</dc:subject>
+    <dc:subject>Great Britain</dc:subject>
+    <dc:subject>Historical fiction</dc:subject>
+    <dc:subject>Fiction - Historical</dc:subject>
+    <dc:subject>1509-1547</dc:subject>
+    <dc:subject>History</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="Wolf_Hall_split_000.html" id="id137" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_001.html" id="id136" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_002.html" id="id135" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_003.html" id="id134" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_004.html" id="id133" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_005.html" id="id132" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_006.html" id="id131" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_007.html" id="id130" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_008.html" id="id129" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_009.html" id="id128" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_010.html" id="id127" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_011.html" id="id126" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_012.html" id="id125" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_013.html" id="id124" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_014.html" id="id123" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_015.html" id="id122" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_016.html" id="id121" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_017.html" id="id120" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_018.html" id="id119" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_019.html" id="id118" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_020.html" id="id117" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_021.html" id="id116" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_022.html" id="id115" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_023.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_024.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_025.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_026.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_027.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_028.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_029.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_030.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_031.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_032.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_033.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_034.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_035.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="Wolf_Hall_split_036.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00002.jpg" id="id4" media-type="image/jpeg"/>
+    <item href="images/00003.jpg" id="id5" media-type="image/jpeg"/>
+    <item href="images/00005.jpg" id="id7" media-type="image/jpeg"/>
+    <item href="images/00006.jpg" id="id8" media-type="image/jpeg"/>
+    <item href="images/00007.jpg" id="id9" media-type="image/jpeg"/>
+    <item href="images/00008.jpg" id="id10" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id137"/>
+    <itemref idref="id136"/>
+    <itemref idref="id135"/>
+    <itemref idref="id134"/>
+    <itemref idref="id133"/>
+    <itemref idref="id132"/>
+    <itemref idref="id131"/>
+    <itemref idref="id130"/>
+    <itemref idref="id129"/>
+    <itemref idref="id128"/>
+    <itemref idref="id127"/>
+    <itemref idref="id126"/>
+    <itemref idref="id125"/>
+    <itemref idref="id124"/>
+    <itemref idref="id123"/>
+    <itemref idref="id122"/>
+    <itemref idref="id121"/>
+    <itemref idref="id120"/>
+    <itemref idref="id119"/>
+    <itemref idref="id118"/>
+    <itemref idref="id117"/>
+    <itemref idref="id116"/>
+    <itemref idref="id115"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="Wolf_Hall_split_036.html#filepos1582168" type="toc" title="Table of Contents"/>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+    <reference href="Wolf_Hall_split_034.html#filepos1579151" type="copyright-page" title="Copyright"/>
+  </guide>
+</package>
